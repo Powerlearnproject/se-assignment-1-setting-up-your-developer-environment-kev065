@@ -9,7 +9,7 @@
 
 ## Challenges Encountered
 1. I discovered that the `android` command was deprecated after installing Flutter.
-2. I found the official Flutter installation instructions for Ubuntu unclear, leading me to seek guidance from YouTube [videos](https://www.youtube.com/watch?v=attW3qd2JWQ).
+2. I found the official Flutter installation [instructions](https://docs.flutter.dev/get-started/install/linux/android?tab=download) for Ubuntu unclear, leading me to seek guidance from [YouTube](https://www.youtube.com/watch?v=VGs-y_kL_Eg) [videos](https://www.youtube.com/watch?v=attW3qd2JWQ).
 3. Attempting to configure Flutter through VS Code resulted in an error, prompting me to revert to terminal-based installation.
 4. I encountered permission errors when setting up GitHub SSH keys, which required me to delete the existing SSH key file, restart my computer, and redo the process successfully.
 5. I initially struggled with setting the PATH for Flutter because I overlooked replacing `user` in the documentation with my actual username.
