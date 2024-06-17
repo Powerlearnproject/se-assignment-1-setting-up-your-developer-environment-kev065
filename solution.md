@@ -6,3 +6,10 @@
 5. **Package Managers:** I've installed [Pip](https://github.com/Powerlearnproject/se-assignment-1-setting-up-your-developer-environment-kev065/blob/main/images/pip/pip.png), the package manager for Python.
 6. **Database Configuration:** I've installed and configured [MySQL](https://github.com/Powerlearnproject/se-assignment-1-setting-up-your-developer-environment-kev065/blob/main/images/mysql-steps/4.png) database.
 7. **VS Code Extensions:** Installed extensions include [Dart](https://github.com/Powerlearnproject/se-assignment-1-setting-up-your-developer-environment-kev065/blob/main/images/dart/dart-extension.png), [Flutter](https://github.com/Powerlearnproject/se-assignment-1-setting-up-your-developer-environment-kev065/blob/main/images/flutter/flutter-extension.png), [Pylance](https://github.com/Powerlearnproject/se-assignment-1-setting-up-your-developer-environment-kev065/blob/main/images/python/pylance.png), [Python Debugger](https://github.com/Powerlearnproject/se-assignment-1-setting-up-your-developer-environment-kev065/blob/main/images/python/python-debugger.png), and the [Python extension](https://github.com/Powerlearnproject/se-assignment-1-setting-up-your-developer-environment-kev065/blob/main/images/python/python-extension.png) for enhanced development experience in VS Code.
+
+## Challenges Encountered
+1. I discovered that the `android` command was deprecated after installing Flutter.
+2. I found the official Flutter installation instructions for Ubuntu unclear, leading me to seek guidance from YouTube [videos](https://www.youtube.com/watch?v=attW3qd2JWQ).
+3. Attempting to configure Flutter through VS Code resulted in an error, prompting me to revert to terminal-based installation.
+4. I encountered permission errors when setting up GitHub SSH keys, which required me to delete the existing SSH key file, restart my computer, and redo the process successfully.
+5. I initially struggled with setting the PATH for Flutter because I overlooked replacing `user` in the documentation with my actual username.
